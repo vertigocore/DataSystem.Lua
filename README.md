@@ -83,13 +83,6 @@ A comprehensive, production-ready data persistence system for Roblox games with 
            └── username (TextLabel)
    ```
 
-2. **Configure ServerSecrets**:
-   - Set `SERVER_HMAC_SECRET` to a secure random string
-   - Adjust `DEBUG_ENABLED` to enable/disable logging
-   - Customize default player data, XP settings, and rate limits
-
-3. **Enable API Services** (for testing in Studio):
-   - Game Settings → Security → Enable Studio Access to API Services
 
 ## 🎮 Usage
 
