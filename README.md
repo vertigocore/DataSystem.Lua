@@ -1,7 +1,3 @@
-# Roblox DataStore System
-
-A comprehensive, production-ready data persistence system for Roblox games with secure client-server communication, backup management, XP/level progression, and a building system.
-
 ## 🚀 Features
 
 ### Core Functionality
@@ -44,7 +40,6 @@ A comprehensive, production-ready data persistence system for Roblox games with 
 - **ClientGlue**: UI management and data synchronization
 - **BuildClient**: Building system input handling and character control
 
-## 🛠️ Installation
 
 1. **Studio Structure**:
    ```
