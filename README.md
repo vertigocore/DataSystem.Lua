@@ -178,5 +178,5 @@ All logs are prefixed with `[DEBUG]`, `[WARN]`, or `[ERROR]` for easy filtering.
 
 ---
 
-**Developed for Roblox** | Production-Ready Data Persistence System
+**Developed by loif ( sqpxcy )**
 
