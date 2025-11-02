@@ -46,7 +46,7 @@ A comprehensive, production-ready data persistence system for Roblox games with 
 
 ## 🛠️ Installation
 
-1. **Studio Structure:
+1. **Studio Structure**:
    ```
    ReplicatedStorage/
    └── Remotes/
